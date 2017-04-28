@@ -1,9 +1,8 @@
 # US-States---Hexbins
 US State features in a uniform Hexbin/hexagonal shape.
 
-Current projection is US National Atlas Equal Area, EPSG: 2163
-(KML projection is WGS84 Web Mercator)
+Unless the file name indicates otherwise, the projection is US National Atlas Equal Area, EPSG: 2163. The KML has a WGS84 Web Mercator spatial reference, and one version of the shapefile is also posted with that SR.
 
-Additional file formats to be uploaded when I have time
+Additional file formats will be uploaded when I have time
 
 Suggestions appreciated
